@@ -1,0 +1,13 @@
+Course Code,Course Name,Semester,Department,LTPSC,Credits,Instructor,Registered Students,Elective (Yes/No),Half Semester (Yes/No)
+MA261,Differential Equations,3,Mathematics,3-0-0-4-2,4,Dr Anand Barangi,60,No,No
+MA262,Multivariate Calculus,3,Mathematics,2-0-2-0-3,3,Dr Somen Bhattacharjee,55,No,No
+CS261,Operating System,5,CSE,3-0-2-0-4,4,Dr Suvadip Hazra,65,No,No
+CS262,Software Design Tools and Techniques,5,CSE,3-1-0-0-4,4,"Dr Sunil PV (Sec A), Dr Vivekraj VK (Sec B)",70,No,No
+CS263,Design & Analysis of Algorithms,5,CSE,3-1-0-0-4,4,Dr Prabhu Prasad BM,72,No,No
+CS264,Computer Networks,5,CSE,3-0-2-0-4,4,TBD,68,No,No
+HS261,Ethics & Environmental Studies,2,HSS,2+1,2,Dr Pankaj,100,No,No
+EC251,Electronics System Design-I,5,ECE,3-0-2-0-4,4,"Dr Malay (Sec A), Dr Pramod Y (Sec B)",65,No,No
+EC252,Introduction to RFIC Design,5,ECE,2-0-2-0-3,3,PUJAR, Vani Yelamali,60,Yes,Yes
+CS152,Data Science with Python,2,CSE,3-0-2-0-4,4,Dr Rajesh Kumar,58,Yes,No
+ASD352,User Interaction & Experience Design,5,CSE,2-0-2-0-3,3,Dr Sibasankar Padhy,64,Yes,Yes
+CS251,2D Computer Graphics,5,CSE,3-0-2-0-4,4,Mr Mallikarjun Kande,66,Yes,No

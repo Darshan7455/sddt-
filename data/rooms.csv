@@ -1,0 +1,29 @@
+Room Number,Type,Capacity,Facilities
+C101,Classroom,56,Projector
+C102,Classroom,56,Projector
+C103,Classroom,56,Projector
+C104,Classroom,56,Projector
+C201,Classroom,96,Whiteboard
+C202,Classroom,96,Projector
+C203,Classroom,96,Projector
+C204,Classroom,96,Whiteboard
+C205,Classroom,96,Projector
+C301,Classroom,96,Projector
+C302,Classroom,96,Whiteboard
+C303,Classroom,96,Projector
+C304,Classroom,96,Projector
+C305,Classroom,96,Whiteboard
+C401,Classroom,240,Auditorium
+C402,Classroom,135,Projector
+C403,Research Lab,40,Computers
+C404,Classroom,96,Projector
+C405,Classroom,96,Whiteboard
+L105,Lab,40,Computers
+L106,Lab,40,Computers
+L107,Lab,40,Computers
+L206,Lab,40,Computers
+L207,Lab,40,Computers
+L208,Lab,40,Software Lab
+L306,Lab,40,Hardware Lab
+L307,Lab,40,Physics Lab
+L308,Lab,40,Software Lab
